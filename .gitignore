@@ -156,3 +156,4 @@ cython_debug/
 *.zip
 timit_11/
 food-11/
+.ssh/
